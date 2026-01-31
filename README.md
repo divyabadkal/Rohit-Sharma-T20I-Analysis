@@ -17,3 +17,4 @@ Dynamic Filtering: Integrated Yearly Slicers to filter performance by specific t
 UI/UX Design: Utilized custom shapes and visual grouping for a clean, professional executive layout.
 
 ![Dashboard Preview](Screenshot 2026-01-31 202936.jpg)
+[Dashboard Preview](Screenshot 2025-11-04 182029.png)
